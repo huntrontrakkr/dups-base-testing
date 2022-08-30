@@ -1,0 +1,11 @@
+configs:
+  - name: first
+    description: first config
+    content:
+      - key: value
+        key2: value2
+env_variables:
+  - name: first
+    description: first env variable
+    value: value
+    type: string
